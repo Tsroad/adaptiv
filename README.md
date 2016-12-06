@@ -3,6 +3,7 @@ Adaptiv: An Adaptive Jerk Pace Buffer Step Detection Algorithm
 
 - Dan Murray
 - Ryan Bonick
+- T.s.road
 
 ##Abstract
 Mobile consumer technology today is equipped with a myriad of sophisticated sensors capable of measuring multiple environment variables. One of the most exciting sensors on most mobile devices today is the accelerometer, capable of measuring the device's proper acceleration, i.e. acceleration relative to free fall. Proper acceleration data has many uses in today's mobile applications ranging from, determining the device's orientation, gesture recognition, and detecting user movement, namely step detection. In this git repository we explore the use of android's raw accelerometer data in the application of step detection. Step detection has many uses in today's mobile computing field, including activity tracking as well as providing correction in indoor localization methods. Noticing this significance of accurate step detection, the goal of this repository was to explore a few algorithms in precise step detection.
